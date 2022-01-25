@@ -9,7 +9,7 @@
 
 
 
-### 📋 Pré-requisitos
+### 📋 Pré-requisitos:
 
 O código foi desenvolvido na IDE Intellij que pode ser baixada no link:
 
@@ -17,7 +17,7 @@ O código foi desenvolvido na IDE Intellij que pode ser baixada no link:
 https://www.jetbrains.com/pt-br/idea/download/#section=windows
 ```
 
-### 🔧 Instalação
+### 🔧 Instalação:
 
 É uma IDE fácil de instalar. Para isso basta você baixar o arquivo "Comunidade" e clicar em avançar... avançar... até finalizar a instalação.
 
@@ -49,12 +49,14 @@ Até finalizar
 ### 5. Implementação de documentação Java;
 
 
-## Melhorias implementadas
+
+## Melhorias implementadas:
 ## Foram adicionadas as seguintes melhorias e implementações:
 ### 1. Melhoria do versionamento do código (Clean Code) com a implementação de anotações Lombok;
 
+
 ## Prognóstico do Projeto:
-### Em curto prazo, pretendemos implementar outros padõres de projeto, utilizando os princípios estabelecidos pelo GOF (Gang of Four) no Design Patterns.
+### Em curto prazo, pretendemos implementar outros padrões de projeto, utilizando os princípios estabelecidos pelo GOF (Gang of Four) no Design Patterns.
 
 
 

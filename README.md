@@ -38,6 +38,7 @@ Até finalizar
 ### 1. Singleton;
 ### 3. Strategy;
 ### 4. Facade;  
+  
 
 
 

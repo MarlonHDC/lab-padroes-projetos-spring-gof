@@ -41,7 +41,7 @@ Até finalizar
 
 
 
-## Métodos mais importantes utiluzados para a implementação da regra de negócio:
+## Métodos mais importantes utilizados para a implementação da regra de negócio:
 ### 1. Criação do do projeto através do Spring Boot e algumas dependências;
 ### 2. Criação básica de cadastro de clientes no início;
 ### 3. Utilização de API pública para atualização de dados do cliente através do CEP como chave principal;

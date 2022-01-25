@@ -1,11 +1,13 @@
-# Cadastro de Clientes com Endereço, Explorando Padrões de Projetos (Design Patterns) com Spring Boot, Desenvolvimento e Consumo de API
+## Cadastro de Clientes com Endereço, Explorando Padrões de Projetos (Design Patterns) com Spring Boot, Desenvolvimento e Consumo de API
+
+
 
 ### Neste código de cadastro de clientes com endereço, exploramos alguns padrões de projetos, utilizando as premissas de GOF e desenvolvimento de API como desafio proposto pela Digital Innovation One (DIO)
-#### O projeto tem o foco central de explorar padrões de projetos com consumo de API, utilizando o Spring Boot e outros assuntos relacionados a linguagem Java
+### O projeto tem o foco central de explorar padrões de projetos com consumo de API, utilizando o Spring Boot e outros assuntos relacionados a linguagem Java
 
 ## 🚀 Começando
 
-## Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
+### Essas instruções permitirão que você obtenha uma cópia do projeto em operação na sua máquina local para fins de desenvolvimento e teste.
 
 
 
@@ -37,8 +39,8 @@ Até finalizar
 
 ### 1. Singleton;
 ### 3. Strategy;
-### 4. Facade;  </p>
-  
+### 4. Facade;
+&nbsp;
 
 
 
@@ -47,19 +49,17 @@ Até finalizar
 ### 2. Criação básica de cadastro de clientes no início;
 ### 3. Utilização de API pública para atualização de dados do cliente através do CEP como chave principal;
 ### 4. Utilização de notações do Spring Boot para criação e desenvolvimento do código;
-### 5. Implementação de documentação Java;  
-
-
+### 5. Implementação de documentação Java;
+&nbsp;
 
 ## Melhorias implementadas:
 ## Foram adicionadas as seguintes melhorias e implementações:
-### 1. Melhoria do versionamento do código (Clean Code) com a implementação de anotações Lombok;  
-
+### 1. Melhoria do versionamento do código (Clean Code) com a implementação de anotações Lombok;
+&nbsp;
 
 ## Prognóstico do Projeto:
 ### Em curto prazo, pretendemos implementar outros padrões de projeto, utilizando os princípios estabelecidos pelo GOF (Gang of Four) no Design Patterns.  
-
-
+&nbsp;
 
 ## 📌 Versão
 
